@@ -3,65 +3,65 @@
         <div class="col-xs-12">
             <div class="panel panel-success">
                 <div class="panel-heading">
-                    <h3 class="panel-title">Form Tambah Data Arsip</h3>
+                    <h3 class="panel-title">Form Tambah Data </h3>
                 </div>
                 <div class="panel-body">
                     <!--membuat form untuk tambah data-->
                     <form class="form-horizontal" action="" method="post">
                         <div class="form-group">
-                            <label for="ruang_arsip" class="col-sm-3 control-label">Ruang Arsip</label>
+                            <label for="ruang_arsip" class="col-sm-3 control-label">Nama Siswa</label>
                                <div class="col-sm-9">
                                 <input type="text" name="no_rak" class="form-control" id="inputEmail3" placeholder="Inputkan Nama Siswa" required>
                             </div>
                         </div>
 						 <div class="form-group">
-                            <label for="no_rak" class="col-sm-3 control-label">Nomor Rak</label>
+                            <label for="no_rak" class="col-sm-3 control-label">NISN</label>
                             <div class="col-sm-9">
-                                <input type="text" name="no_rak" class="form-control" id="inputEmail3" placeholder="Inputkan Nomor Rak atau Lemari" required>
+                                <input type="text" name="no_rak" class="form-control" id="inputEmail3" placeholder="Inputkan NISN" required>
                             </div>
                         </div>
 						 <div class="form-group">
-                            <label for="no_laci" class="col-sm-3 control-label">Nomor Laci</label>
+                            <label for="no_laci" class="col-sm-3 control-label">NIS</label>
                             <div class="col-sm-9">
-                                <input type="text" name="no_laci" class="form-control" id="inputEmail3" placeholder="Inputkan Nomor Laci" required>
+                                <input type="text" name="no_laci" class="form-control" id="inputEmail3" placeholder="Inputkan NIS" required>
                             </div>
                         </div>
 						 <div class="form-group">
-                            <label for="no_boks" class="col-sm-3 control-label">Nomor Boks</label>
+                            <label for="no_boks" class="col-sm-3 control-label">Tempat Tanggal lahir</label>
                             <div class="col-sm-9">
-                                <input type="text" name="no_boks" class="form-control" id="inputEmail3" placeholder="Inputkan Nomor Boks" required>
+                                <input type="text" name="no_boks" class="form-control" id="inputEmail3" placeholder="Inputkan Tempat Tanggal lahir" required>
                             </div>
                         </div>
 						 <div class="form-group">
-                            <label for="para_pihak" class="col-sm-3 control-label">Para Pihak</label>
+                            <label for="para_pihak" class="col-sm-3 control-label">Asal Madrasah</label>
                             <div class="col-sm-9">
-                                <input type="text" name="para_pihak" class="form-control" id="inputEmail3" placeholder="Inputkan Para Pihak yang Terlibat" required>
+                                <input type="text" name="para_pihak" class="form-control" id="inputEmail3" placeholder="Inputkan asal madrasah" required>
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="no_perkara" class="col-sm-3 control-label">Nomor Perkara</label>
+                            <label for="no_perkara" class="col-sm-3 control-label">Agama</label>
                             <div class="col-sm-9">
-                                <input type="text" name="no_perkara"class="form-control" id="inputEmail3" placeholder="Inputkan Nomor Perkara" required>
+                                <input type="text" name="no_perkara"class="form-control" id="inputEmail3" placeholder="Inputkan Agama" required>
                             </div>
                         </div>
 
                          <div class="form-group">
-                            <label for="tgl_masuk" class="col-sm-3 control-label">Tanggal Masuk</label>
-                            <div class="col-sm-3">
-                                <input type="date" name="tgl_masuk" class="form-control" id="inputEmail3" placeholder="Inputkan Tanggal Masuk" required>
+                            <label for="tgl_masuk" class="col-sm-3 control-label">Anak Ke</label>
+                            <div class="col-sm-9">
+                                <input type="date" name="tgl_masuk" class="form-control" id="inputEmail3" placeholder="Inputkan Anak Ke" required>
                             </div>
                         </div>
 
                         <div class="form-group">
-                            <label for="pengantar" class="col-sm-3 control-label">Pengantar Berkas</label>
+                            <label for="pengantar" class="col-sm-3 control-label">Alamat</label>
                             <div class="col-sm-9">
-                                <input type="text" name="pengantar" class="form-control" id="inputPassword3" placeholder="Inputkan Staff Pengantar Berkas" required>
+                                <input type="text" name="pengantar" class="form-control" id="inputPassword3" placeholder="Inputkan Alamat" required>
                             </div>
                         </div>
 						<div class="form-group">
-                            <label for="penerima" class="col-sm-3 control-label">Penerima Berkas</label>
+                            <label for="penerima" class="col-sm-3 control-label">Nomor Telpon</label>
                             <div class="col-sm-9">
-                                <input type="text" name="penerima" class="form-control" id="inputPassword3" placeholder="Inputkan Staff Penerima Berkas" required>
+                                <input type="text" name="penerima" class="form-control" id="inputPassword3" placeholder="Inputkan Nomor Telpon" required>
                             </div>
                         </div>
 

@@ -10,7 +10,7 @@
                 <span class="icon-bar"></span>
             </button>
 
-            <a class="navbar-brand" href="?page=utama">Sistem Informasi Arsip Pengadilan Negeri Kisaran</a>
+            <a class="navbar-brand" href="?page=utama">Sistem Informasi Raport Digital Madrasah</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav">

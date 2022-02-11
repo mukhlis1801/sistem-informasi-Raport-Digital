@@ -9,7 +9,7 @@ if(!isset($_SESSION ['idsesi'])) {
         <div class="col-xs-12">
             <div class="panel panel-success">
                 <div class="panel-heading">
-                    <h3 class="panel-title"><span class="fa fa-user-plus"></span> DATA SISWA </h3>
+                    <h3 class="panel-title"><span class="fa fa-user-plus"></span> DATA ORANG TUA </h3>
                 </div>
                 <div class="panel-body">
                     <table id="dtskripsi" class="table table-bordered table-striped table-hover">
